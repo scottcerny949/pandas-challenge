@@ -4,9 +4,18 @@ PyCitySchools
 
 -------------------------------------
 
-Please see the Word Doc named Analyis.docx for my final analysis of this data
-
 My Jupiter Notebook file for this assignment is named PyCitySchools.ipynb
+
+Here is my analysis:
+
+The PyCitySchools data clearly shows the following trends:
+
+  •	Charter Schools are producing higher Math and Reading scores compared to District Schools with much higher passing percentages for both as well.
+
+  •	The amount of spending per student is not having a positive effect on student grades.  The student grades in both Math and Reading are actually decreasing as more money is being spent per student.
+
+  •	Small and Medium sized schools are producing similar Math and Reading scores, while Larger schools (with over 2000 students) are producing much lower scores.
+
 
 -------------------------------------
 
@@ -112,8 +121,6 @@ See Example Solution for a reference on the expected format.
 
 
 -------------------------------------
-
-Please see the Word Doc named Analyis.docx for my final analysis of this data
 
 My Jupiter Notebook file for this assignment is named PyCitySchools.ipynb
 
